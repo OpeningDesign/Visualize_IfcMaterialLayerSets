@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:ifc="http://www.ifcopenshell.org/ns" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" data-scale="1/2&quot;=1'-0&quot;" height="533.400019009908mm" id="root" version="1.1" viewBox="0 0 508.0000181046743 533.400019009908" width="508.0000181046743mm">
+  <defs/>
+  <path class="GlobalId-2D$zBmErz06e_yZefa38VX IfcAnnotation PredefinedType-SECTIONLEVEL predefinedtype-SECTIONLEVEL" d="M 508.0 431.8000183105469 L 0.0 431.8000183105469"/>
+  <text dominant-baseline="baseline" style="font-size: 0;" text-anchor="start" transform="translate(508.0, 428.3000183105469) rotate(0.0)">
+    <tspan class="SECTIONLEVEL" dy="-1em" x="0" y="0">1st Floor</tspan>
+    <tspan class="SECTIONLEVEL" dy="0em" x="0" y="0">RL +0&quot;</tspan>
+  </text>
+  <path class="GlobalId-0Q0NUoY4nB1ArAPy122mnP IfcAnnotation PredefinedType-TEXTLEADER predefinedtype-TEXTLEADER" d="M 412.2976570848435 265.3184289423128 L 407.7824661656031 265.3184289423128 L 374.3766655051519 283.44165782133734"/>
+  <text dominant-baseline="middle" style="font-size: 0;" text-anchor="start" transform="translate(412.29766845703125, 265.3184509277344) rotate(-8.537736462515939e-07)">
+    <tspan class="GlobalId-0Q0NUoY4nB1ArAPy122mnP IfcAnnotation PredefinedType-TEXTLEADER predefinedtype-TEXTLEADER" dy="0em" x="0" y="0">There's a glitch here, where the drywall</tspan>
+    <tspan class="GlobalId-0Q0NUoY4nB1ArAPy122mnP IfcAnnotation PredefinedType-TEXTLEADER predefinedtype-TEXTLEADER" dy="1em" x="0" y="0">is not showing.  Is a 'Voiding' glitch i think</tspan>
+  </text>
+  <path class="GlobalId-2MdDZTsp5FkPpRwTCs7BOS IfcAnnotation PredefinedType-SECTIONLEVEL predefinedtype-SECTIONLEVEL" d="M 508.0 431.8000183105469 L 0.0 431.8000183105469"/>
+  <text dominant-baseline="baseline" style="font-size: 0;" text-anchor="start" transform="translate(508.0, 428.3000183105469) rotate(0.0)">
+    <tspan class="SECTIONLEVEL" dy="-1em" x="0" y="0">2nd Floor</tspan>
+    <tspan class="SECTIONLEVEL" dy="0em" x="0" y="0">RL +0&quot;</tspan>
+  </text>
+  <path class="GlobalId-0wCEmMMZfDGvmL9uSMCPRZ IfcAnnotation PredefinedType-TEXTLEADER predefinedtype-TEXTLEADER" d="M 412.2976570848435 146.8198498090108 L 407.7824661656031 146.8198299407959 L 389.91142407296195 163.70850801467896"/>
+  <text dominant-baseline="middle" style="font-size: 0;" text-anchor="start" transform="translate(412.29766845703125, 146.81985473632812) rotate(-8.537736462515939e-07)">
+    <tspan class="GlobalId-0wCEmMMZfDGvmL9uSMCPRZ IfcAnnotation PredefinedType-TEXTLEADER predefinedtype-TEXTLEADER" dy="0em" x="0" y="0">This assumes an AXIS2 object (ex: wall)</tspan>
+    <tspan class="GlobalId-0wCEmMMZfDGvmL9uSMCPRZ IfcAnnotation PredefinedType-TEXTLEADER predefinedtype-TEXTLEADER" dy="1em" x="0" y="0">can extend to more than</tspan>
+    <tspan class="GlobalId-0wCEmMMZfDGvmL9uSMCPRZ IfcAnnotation PredefinedType-TEXTLEADER predefinedtype-TEXTLEADER" dy="2em" x="0" y="0">(1) AXIS2 object (ex:IfcSlab)</tspan>
+  </text>
+  <line class="GlobalId-0o$ywVyhLAdgKUdVl0_Qcg IfcAnnotation PredefinedType-LINEWORK dashed predefinedtype-LINEWORK" x1="369.25408935546875" x2="369.7203369140625" y1="184.68310546875" y2="186.42311096191406"/>
+  <line class="GlobalId-0o$ywVyhLAdgKUdVl0_Qcg IfcAnnotation PredefinedType-LINEWORK dashed predefinedtype-LINEWORK" x1="369.7203369140625" x2="370.9941101074219" y1="186.42311096191406" y2="187.69688415527344"/>
+  <line class="GlobalId-0o$ywVyhLAdgKUdVl0_Qcg IfcAnnotation PredefinedType-LINEWORK dashed predefinedtype-LINEWORK" x1="370.9941101074219" x2="372.734130859375" y1="187.69688415527344" y2="188.16310119628906"/>
+  <line class="GlobalId-0o$ywVyhLAdgKUdVl0_Qcg IfcAnnotation PredefinedType-LINEWORK dashed predefinedtype-LINEWORK" x1="369.25408935546875" x2="369.7203369140625" y1="166.4725799560547" y2="164.73257446289062"/>
+  <line class="GlobalId-0o$ywVyhLAdgKUdVl0_Qcg IfcAnnotation PredefinedType-LINEWORK dashed predefinedtype-LINEWORK" x1="369.7203369140625" x2="370.9941101074219" y1="164.73257446289062" y2="163.4588165283203"/>
+  <line class="GlobalId-0o$ywVyhLAdgKUdVl0_Qcg IfcAnnotation PredefinedType-LINEWORK dashed predefinedtype-LINEWORK" x1="370.9941101074219" x2="372.734130859375" y1="163.4588165283203" y2="162.99258422851562"/>
+  <line class="GlobalId-0o$ywVyhLAdgKUdVl0_Qcg IfcAnnotation PredefinedType-LINEWORK dashed predefinedtype-LINEWORK" x1="390.5231018066406" x2="390.0568542480469" y1="184.68310546875" y2="186.42311096191406"/>
+  <line class="GlobalId-0o$ywVyhLAdgKUdVl0_Qcg IfcAnnotation PredefinedType-LINEWORK dashed predefinedtype-LINEWORK" x1="390.0568542480469" x2="388.7831115722656" y1="186.42311096191406" y2="187.69688415527344"/>
+  <line class="GlobalId-0o$ywVyhLAdgKUdVl0_Qcg IfcAnnotation PredefinedType-LINEWORK dashed predefinedtype-LINEWORK" x1="388.7831115722656" x2="387.0430908203125" y1="187.69688415527344" y2="188.16310119628906"/>
+  <line class="GlobalId-0o$ywVyhLAdgKUdVl0_Qcg IfcAnnotation PredefinedType-LINEWORK dashed predefinedtype-LINEWORK" x1="390.5231018066406" x2="390.0568542480469" y1="166.4725799560547" y2="164.73257446289062"/>
+  <line class="GlobalId-0o$ywVyhLAdgKUdVl0_Qcg IfcAnnotation PredefinedType-LINEWORK dashed predefinedtype-LINEWORK" x1="390.0568542480469" x2="388.7831115722656" y1="164.73257446289062" y2="163.4588165283203"/>
+  <line class="GlobalId-0o$ywVyhLAdgKUdVl0_Qcg IfcAnnotation PredefinedType-LINEWORK dashed predefinedtype-LINEWORK" x1="388.7831115722656" x2="387.0430908203125" y1="163.4588165283203" y2="162.99258422851562"/>
+  <line class="GlobalId-0o$ywVyhLAdgKUdVl0_Qcg IfcAnnotation PredefinedType-LINEWORK dashed predefinedtype-LINEWORK" x1="369.25408935546875" x2="369.25408935546875" y1="184.68310546875" y2="166.4725799560547"/>
+  <line class="GlobalId-0o$ywVyhLAdgKUdVl0_Qcg IfcAnnotation PredefinedType-LINEWORK dashed predefinedtype-LINEWORK" x1="372.734130859375" x2="387.0430908203125" y1="188.16310119628906" y2="188.16310119628906"/>
+  <line class="GlobalId-0o$ywVyhLAdgKUdVl0_Qcg IfcAnnotation PredefinedType-LINEWORK dashed predefinedtype-LINEWORK" x1="372.734130859375" x2="387.0430908203125" y1="162.99258422851562" y2="162.99258422851562"/>
+  <line class="GlobalId-0o$ywVyhLAdgKUdVl0_Qcg IfcAnnotation PredefinedType-LINEWORK dashed predefinedtype-LINEWORK" x1="390.5231018066406" x2="390.5231018066406" y1="184.68310546875" y2="166.4725799560547"/>
+  <line class="GlobalId-1WOJuL1BX89BDQpSzWVNAg IfcAnnotation PredefinedType-SECTION predefinedtype-SECTION" x1="169.59716796875" x2="169.5972137451172" y1="533.4000244140625" y2="0.0"/>
+  <use transform="rotate(-89.999995674289, 169.59716796875, 533.4000244140625)" x="169.59716796875" xlink:href="#section-arrow" y="533.4000244140625"/>
+  <use x="169.59716796875" xlink:href="#section-tag" y="533.4000244140625"/>
+  <text class="SECTION" dominant-baseline="middle" text-anchor="middle" x="169.59716796875" y="530.9000244140625">-</text>
+  <text class="SECTION" dominant-baseline="middle" text-anchor="middle" x="169.59716796875" y="535.9000244140625">-</text>
+  <use transform="rotate(-89.999995674289, 169.5972137451172, 0.0)" x="169.5972137451172" xlink:href="#section-arrow" y="0.0"/>
+  <use x="169.5972137451172" xlink:href="#section-tag" y="0.0"/>
+  <text class="SECTION" dominant-baseline="middle" text-anchor="middle" x="169.5972137451172" y="-2.5">-</text>
+  <text class="SECTION" dominant-baseline="middle" text-anchor="middle" x="169.5972137451172" y="2.5">-</text>
+</svg>

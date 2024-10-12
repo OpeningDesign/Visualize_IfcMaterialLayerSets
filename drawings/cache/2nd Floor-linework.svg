@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ifc="http://www.ifcopenshell.org/ns" width="100.513mm" height="112.717mm" viewBox="0 0 100.513 112.717">
+    <defs>
+        <marker id="arrowend" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+          <polygon points="0 0, 10 3.5, 0 7"/>
+        </marker>
+        <marker id="arrowstart" markerWidth="10" markerHeight="7" refX="0" refY="3.5" orient="auto">
+          <polygon points="10 0, 0 3.5, 10 7"/>
+        </marker>
+    </defs>
+    <g ifc:name="Elevation 2nd Floor" class="section" ifc:plane="[[1.000000,0.000000,0.000000,0.000000],[0.000000,1.000000,0.000000,0.000000],[0.000000,0.000000,1.000000,0.000000],[0.000000,0.000000,0.000000,1.000000]]" ifc:matrix3="[[41.666668,0.000000,37.556387],[0.000000,41.666668,69.058344],[0.000000,0.000000,1.000000]]">
+        <g id="product-9a16a016-d489-4fd7-8ebc-7383bebeb99a" class="IfcSlab material-FloorFLOORTRUSS projection" ifc:name="Slab" ifc:guid="2Q5g0Mr8bFruwySuE_lhcQ">
+            <path d="M160.191,69.0583 L160.191,-53.576"/>
+            <path d="M160.191,69.0583 L160.191,69.0583"/>
+            <path d="M37.5564,-53.576 L37.5564,-53.576"/>
+            <path d="M160.191,-53.576 L37.5564,-53.576"/>
+        </g>
+        <g id="product-f72fdd98-f21c-49d9-8a8b-189406139e5d" class="IfcWall material-BasicWallEXTWALLBRICK12SHEATHING2X4WOODBATT58GYP projection" ifc:name="Wall" ifc:guid="3tBzsOyXn9sOgB69G64vvT">
+            <path d="M160.191,74.2177 L32.397,74.2177"/>
+            <path d="M160.191,62.576 L160.191,74.2177"/>
+            <path d="M32.397,62.576 L160.191,62.576"/>
+            <path d="M32.397,74.2177 L32.397,62.576"/>
+        </g>
+        <g id="product-574aa52e-db13-4906-8eb8-d41b2e2566a8" class="IfcWall material-BasicWallEXTWALLBRICK12SHEATHING2X4WOODBATT58GYP projection" ifc:name="Wall" ifc:guid="1NIgKksnD91ewur1ik9MQe">
+            <path d="M32.397,62.576 L32.397,-53.576"/>
+            <path d="M44.0387,62.576 L32.397,62.576"/>
+            <path d="M44.0386,-53.576 L44.0387,62.576"/>
+            <path d="M32.397,-53.576 L44.0386,-53.576"/>
+        </g>
+        <g id="product-cfc39bd6-2022-45db-bbe3-07909f1e5505" class="IfcSlab material-FloorCONCRETESLABCOMPACTEDGRAVEL projection" ifc:name="Slab" ifc:guid="3FmvlM8295sxlZ1v2V7bK5">
+            <path d="M160.191,-53.576 L160.191,-58.4709"/>
+            <path d="M37.5564,-58.4709 L37.5564,-53.576"/>
+            <path d="M160.191,-58.4709 L37.5564,-58.4709"/>
+        </g>
+    <g class="cut IfcWall material-BasicWallEXTWALLBRICK12SHEATHING2X4WOODBATT58GYP 1NIgKksnD91ewur1ik9MQe 3tBzsOyXn9sOgB69G64vvT"><path d="M32.39701007467164,62.576034416755036 L32.397012558198504,68.97895038127899 L32.39701379996194,74.21770070989926 L102.68358950477494,74.21767463286717 L160.1908014681106,74.21765476465225 L160.1908014681106,67.8147388001283 L160.1908014681106,62.57598847150802 L89.90421955448045,62.57601330677668 L44.0386763678157,62.57603014328523 L44.03865649960094,-1.3076066970825195 L44.03864035667632,-53.576042254765824 L37.63572439215236,-53.576042254765824 L32.39697406353209,-53.576042254765824 L32.39699393174701,10.307595133781433 Z"/></g></g>
+</svg>

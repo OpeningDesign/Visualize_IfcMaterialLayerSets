@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ifc="http://www.ifcopenshell.org/ns" width="100.513mm" height="112.717mm" viewBox="0 0 100.513 112.717">
+    <defs>
+        <marker id="arrowend" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+          <polygon points="0 0, 10 3.5, 0 7"/>
+        </marker>
+        <marker id="arrowstart" markerWidth="10" markerHeight="7" refX="0" refY="3.5" orient="auto">
+          <polygon points="10 0, 0 3.5, 10 7"/>
+        </marker>
+    </defs>
+    <g ifc:name="Elevation Foundation" class="section" ifc:plane="[[1.000000,0.000000,0.000000,0.000000],[0.000000,1.000000,0.000000,0.000000],[0.000000,0.000000,1.000000,0.000000],[0.000000,0.000000,0.000000,1.000000]]" ifc:matrix3="[[41.666668,0.000000,37.556387],[0.000000,41.666668,69.058344],[0.000000,0.000000,1.000000]]">
+        <g id="product-70d91cac-336e-4e78-92c4-4ab13e30ce02" class="IfcWall material-BasicWallC8QD8CONCRETE projection" ifc:name="Wall" ifc:guid="1msHoiCsvEU9B4Ih4_CCu2">
+            <path d="M160.191,73.6885 L32.9262,73.6885"/>
+            <path d="M160.191,60.9885 L160.191,73.6885"/>
+            <path d="M32.9262,60.9885 L160.191,60.9885"/>
+            <path d="M32.9262,73.6885 L32.9262,60.9885"/>
+        </g>
+        <g id="product-09b31716-1753-4ab6-b2ee-3253a943990f" class="IfcWall material-BasicWallC8QD8CONCRETE projection" ifc:name="Wall" ifc:guid="09inSM5rDAjhBkCbEfGvaF">
+            <path d="M32.9262,60.9885 L32.9261,-53.576"/>
+            <path d="M45.6262,60.9885 L32.9262,60.9885"/>
+            <path d="M45.6261,-53.576 L45.6262,60.9885"/>
+            <path d="M32.9261,-53.576 L45.6261,-53.576"/>
+        </g>
+        <g id="product-cfc39bd6-2022-45db-bbe3-07909f1e5505" class="IfcSlab material-FloorCONCRETESLABCOMPACTEDGRAVEL projection" ifc:name="Slab" ifc:guid="3FmvlM8295sxlZ1v2V7bK5">
+            <path d="M160.191,-58.4709 L37.5564,-58.4709"/>
+            <path d="M37.5564,-58.4709 L37.5564,64.1635"/>
+            <path d="M37.5564,64.1635 L160.191,64.1635"/>
+            <path d="M160.191,64.1635 L160.191,-58.4709"/>
+        </g>
+    <g class="1msHoiCsvEU9B4Ih4_CCu2 cut 09inSM5rDAjhBkCbEfGvaF IfcWall material-BasicWallC8QD8CONCRETE"><path d="M32.92617638569726,60.98852430780728 L44.03867512605243,60.98852058251698 L45.62617654265616,60.98852058251698 L45.626144877688624,-39.25546010335286 L45.626140531516604,-53.576042254765824 L34.51364179116143,-53.576042254765824 L32.92614037455771,-53.576042254765824 L32.92617141864353,46.66794215639432 Z"/></g><g class="1msHoiCsvEU9B4Ih4_CCu2 cut 09inSM5rDAjhBkCbEfGvaF IfcWall material-BasicWallC8QD8CONCRETE"><path d="M160.1908014681106,73.68848845362663 L160.19079153400315,62.57599095503489 L160.19079153400315,60.98848829666773 L48.834279821928874,60.98852803309758 L32.926175143933825,60.98853362103303 L32.92618011098756,72.10103174050649 L32.92618011098756,73.68853439887364 L144.28269927364244,73.68849466244379 Z"/></g><g class="IfcSlab 3FmvlM8295sxlZ1v2V7bK5 cut material-FloorCONCRETESLABCOMPACTEDGRAVEL"><path d="M160.1908014681106,64.16353459159532 L160.1908014681106,-9.810636440912882 L160.1908014681106,-58.470855156580605 L86.21661429267778,-58.470855156580605 L37.55638191761229,-58.470855156580605 L37.55638191761229,15.50331711769104 L37.55638191761229,64.16353459159532 L111.53056785128169,64.16353459159532 Z"/></g></g>
+</svg>

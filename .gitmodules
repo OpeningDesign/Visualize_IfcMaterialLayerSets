@@ -1,0 +1,6 @@
+[submodule "OD_Textures"]
+	path = OD_Textures
+	url = https://hub.openingdesign.com/OpeningDesign/OD_Textures
+[submodule "drawings/assets"]
+	path = drawings/assets
+	url = https://hub.openingdesign.com/OpeningDesign/assets.git

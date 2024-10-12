@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:ifc="http://www.ifcopenshell.org/ns" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" data-scale="1/2&quot;=1'-0&quot;" height="112.7166748046875mm" id="root" version="1.1" viewBox="0 0 100.51276414914237 112.7166748046875" width="100.51276414914237mm">
+  <defs/>
+  <line class="GlobalId-2Caqkwawr1kBCJSkHbSKmy IfcAnnotation PredefinedType-SECTION" x1="54.02409362792969" x2="54.024085998535156" y1="100.80912780761719" y2="-11.894524574279785"/>
+  <use transform="rotate(-90.00000250447816, 54.02409362792969, 100.80912780761719)" x="54.02409362792969" xlink:href="#section-arrow" y="100.80912780761719"/>
+  <use x="54.02409362792969" xlink:href="#section-tag" y="100.80912780761719"/>
+  <text class="SECTION" dominant-baseline="middle" text-anchor="middle" x="54.02409362792969" y="98.30912780761719">-</text>
+  <text class="SECTION" dominant-baseline="middle" text-anchor="middle" x="54.02409362792969" y="103.30912780761719">-</text>
+  <use transform="rotate(-90.00000250447816, 54.024085998535156, -11.894524574279785)" x="54.024085998535156" xlink:href="#section-arrow" y="-11.894524574279785"/>
+  <use x="54.024085998535156" xlink:href="#section-tag" y="-11.894524574279785"/>
+  <text class="SECTION" dominant-baseline="middle" text-anchor="middle" x="54.024085998535156" y="-14.394524574279785">-</text>
+  <text class="SECTION" dominant-baseline="middle" text-anchor="middle" x="54.024085998535156" y="-9.394524574279785">-</text>
+  <line class="GlobalId-1XXxw$JQn6iPTYLaBd_sPf IfcAnnotation PredefinedType-SECTION" x1="31.445934295654297" x2="144.1495819091797" y1="26.46117401123047" y2="26.46117401123047"/>
+  <use transform="rotate(0.0, 31.445934295654297, 26.46117401123047)" x="31.445934295654297" xlink:href="#section-arrow" y="26.46117401123047"/>
+  <use x="31.445934295654297" xlink:href="#section-tag" y="26.46117401123047"/>
+  <text class="SECTION" dominant-baseline="middle" text-anchor="middle" x="31.445934295654297" y="23.96117401123047">-</text>
+  <text class="SECTION" dominant-baseline="middle" text-anchor="middle" x="31.445934295654297" y="28.96117401123047">-</text>
+  <use transform="rotate(0.0, 144.1495819091797, 26.46117401123047)" x="144.1495819091797" xlink:href="#section-arrow" y="26.46117401123047"/>
+  <use x="144.1495819091797" xlink:href="#section-tag" y="26.46117401123047"/>
+  <text class="SECTION" dominant-baseline="middle" text-anchor="middle" x="144.1495819091797" y="23.96117401123047">-</text>
+  <text class="SECTION" dominant-baseline="middle" text-anchor="middle" x="144.1495819091797" y="28.96117401123047">-</text>
+</svg>
